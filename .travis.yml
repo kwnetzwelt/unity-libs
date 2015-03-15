@@ -1,6 +1,6 @@
 language: csharp
 solution: unity.sln
 git:
-  submodules: false
+  submodules: true
 before_install:
-  - git submodule update --init --recursive
+  - git submodule update --recursive --remote
