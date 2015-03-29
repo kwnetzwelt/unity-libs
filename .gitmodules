@@ -1,4 +1,0 @@
-[submodule "Assets/Packages"]
-	path = Assets/Packages
-	url = https://bitbucket.org/kaiwegner/ugb-source
-	branch = development
